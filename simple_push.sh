@@ -8,6 +8,6 @@ echo "you passed me" $@
 echo -e "\e[39m"
 
 git add . 
-git commit -m "update" 
+git commit -m "$@" 
 git push -u origin master
 

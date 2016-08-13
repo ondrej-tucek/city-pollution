@@ -20,21 +20,14 @@ python app/app.py examples/data_in/buildings.shp examples/data_in/concentration.
 
 
 
-
-
-
-
-
-
-
-##Testing
+## Test
 ```
 py.test -s -v --cov=app/ --durations=5 --cov-report term-missing
 ```
 
+<p align="center"><img src="https://github.com/ondrej-tucek/city-pollution/blob/master/docs/img/test_results.png?raw=true" height="200" /></p>
 <p align="center"><img src="https://github.com/ondrej-tucek/city-pollution/blob/master/docs/img/building_76575_with_interpolated_concentration.png?raw=true" height="400" /></p>
 
-<p align="center"><img src="https://github.com/ondrej-tucek/city-pollution/blob/master/docs/img/test_results.png?raw=true" height="200" /></p>
 
 
 ## License
