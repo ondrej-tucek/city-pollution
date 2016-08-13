@@ -6,7 +6,7 @@ __pycache__/
 .cache
 #.envs
 #data/out
-examples/data_out
+#examples/data_out
 
 # C extensions
 *.so
