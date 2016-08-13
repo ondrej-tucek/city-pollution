@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 .cache
-.simple_push.sh
+simple_push.sh
 #.envs
 #data/out
 #examples/data_out
