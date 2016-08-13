@@ -7,6 +7,8 @@ description here
 ```python app/app.py examples/data_in/buildings.shp examples/data_in/concentration.dbf examples/data_out/new_buildings.shp examples/data_out/new_concentration.dbf```
 
 
+## Results
+![buildings_with_concentrations](https://github.com/ondrej-tucek/city-pollution/blob/master/docs/img/buildings_with_concentrations.png)]
 
 ## License
  [MIT](/LICENSE)
