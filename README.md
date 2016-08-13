@@ -33,7 +33,7 @@ Zoom of map, red points are locations of pollution, circles inside buildings are
 Because original mesh is irregular, we had to do a rectangular. Now we can use bilinear interpolation method. On the img below is only view on a piece of mesh.
 <p align="center"><img src="https://github.com/ondrej-tucek/city-pollution/blob/master/docs/img/mesh_for_bilinear_interpolation.png?raw=true" height="400" /></p>
 
-Final result :simple_smile: 
+Final result `:blush:` 
 <p align="center"><img src="https://github.com/ondrej-tucek/city-pollution/blob/master/docs/img/mesh_with_bilinear_interpolation_zoom.png?raw=true" height="400" /></p>
 
 
