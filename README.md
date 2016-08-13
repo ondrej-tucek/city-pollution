@@ -18,7 +18,9 @@ Important notes:
 6. $ cd city-pollution
 7. $ python app/app.py examples/data_in/buildings.shp examples/data_in/concentration.dbf examples/data_out/new_buildings.shp examples/data_out/new_concentration.dbf
 8. ... work now! ...
-9. $ deactivate```
+9. $ deactivate
+
+```
 
 
 ## Results
