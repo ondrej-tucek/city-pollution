@@ -9,6 +9,7 @@ description here
 
 ## Results
 ![buildings_with_concentrations](https://github.com/ondrej-tucek/city-pollution/blob/master/docs/img/buildings_with_concentrations.png)]
+<img src="https://github.com/ondrej-tucek/city-pollution/blob/master/docs/img/buildings_with_concentrations.png?raw=true" height="400" />
 
 ## License
  [MIT](/LICENSE)
