@@ -41,7 +41,6 @@ py.test -s -v --cov=app/ --durations=5 --cov-report term-missing
 <p align="center"><img src="https://github.com/ondrej-tucek/city-pollution/blob/master/docs/img/building_76575_with_interpolated_concentration.png?raw=true" height="400" /></p>
 
 
-
 ## License
  [MIT](/LICENSE)
 
