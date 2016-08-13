@@ -1,1 +1,2 @@
-export PYTHONPATH="city_pollution:$PYTHONPATH"
+#export PYTHONPATH="city_pollution:$PYTHONPATH"
+export PYTHONPATH="city_pollution:app"
