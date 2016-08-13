@@ -1,0 +1,7 @@
+wheel==0.23.0
+bzr+http://dbfpy.bzr.sourceforge.net/bzr/dbfpy#egg=dbfpy
+pyshp
+shapely
+pyproj
+numpy
+click
