@@ -1,6 +1,7 @@
 #!/bin/bash
 
-echo "Simple push to git repo."
+
+echo -e "\e[91mSimple push to git repo."
 
 git add . 
 git commit -m "update" 
