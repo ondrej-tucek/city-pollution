@@ -27,7 +27,7 @@ Important notes:
 Locations of measured pollution (red points).
 <p align="center"><img src="https://github.com/ondrej-tucek/city-pollution/blob/master/docs/img/buildings_with_concentrations.png?raw=true" height="400" /></p>
 
-Zoom of map, red points are locations of pollution, circles inside buildings are their centroids.
+Detail view, red points are locations of pollution, circles inside buildings are their centroids.
 <p align="center"><img src="https://github.com/ondrej-tucek/city-pollution/blob/master/docs/img/buildings_with_their_centroids.png?raw=true" height="400" /></p>
 
 Because original mesh is irregular, we had to do a rectangular. Now we can use bilinear interpolation method. On the img below is only view on a piece of mesh.
